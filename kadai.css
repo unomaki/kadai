@@ -9,6 +9,10 @@ header {
   background-color: #ff9a4b;
 }
 
+body {
+  margin: 0px;
+}
+
 main {
   width: 960px;
   margin: 50px auto;
